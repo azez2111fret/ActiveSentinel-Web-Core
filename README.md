@@ -29,7 +29,7 @@ HTML
 <canvas id="evil-background"></canvas>
 Deploy Script: Integrate the Adversarial-Shield.js into your build pipeline.
 
-Hardware Optimization: While designed for general use, this script is highly efficient on low-spec hardware (e.g., Intel Celeron N4000) due to its optimized requestAnimationFrame loop.
+Hardware Optimization: While designed for general use, this script is highly efficient on low-spec hardware due to its optimized requestAnimationFrame loop.
 
 ⚠️ Disclaimer
 This project is for Adversarial Research and Hardware Stress Testing purposes only. Deployment in production environments should be handled with care to avoid interfering with legitimate user experiences.
